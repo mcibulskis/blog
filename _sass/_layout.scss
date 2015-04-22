@@ -21,6 +21,16 @@
     &:visited {
         color: $grey-color-dark;
     }
+
+    .main-title {
+        line-height: 30px;
+    }
+
+    .sub-title {
+        font-size: 16px;
+        margin-top: -15px;
+        margin-left: 30px;
+    }
 }
 
 .site-nav {
